@@ -1,0 +1,10 @@
+//Java
+  System.out.println("Hello, World!");
+// C
+  printf(""Hello, World!");
+// C++
+  cout << "Hello, World!";
+// Python
+  print "Hello, World!"
+// Ruby
+  puts "Hello World!";
